@@ -118,4 +118,4 @@ async function startScript(code) {
 
 setInterval(() => {
   startScript(genCode());
-}, 2000);
+}, 2000); // change your delay here!

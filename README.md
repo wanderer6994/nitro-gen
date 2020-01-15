@@ -2,6 +2,8 @@
 
 Bypassing discord algorithm by bruteforcing all possible combination nitro code.
 
+You are able to change delay if you feel like it! @line 121 in index.js file
+
 ### Installation
 
 Nitro Gen requires the following...
@@ -27,6 +29,11 @@ git pull
 ## Pictures
 
 ![1](https://i.imgur.com/j2cY3jd.png)
+
+## Todo
+
+- [ ] Add a proxy scraper
+- [ ] Delay optimizer to prevent rate limit / ban
 
 ## DISCLAIMER
 
