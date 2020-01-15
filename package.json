@@ -1,0 +1,16 @@
+{
+  "name": "nitro-gen",
+  "version": "1.0.0",
+  "description": "Discord Nitro Bruteforce Generator Code :P",
+  "main": "index.js",
+  "repository": "https://github.com/ericz99/nitro-gen.git",
+  "author": "Eric Zhang",
+  "license": "MIT",
+  "dependencies": {
+    "figlet": "^1.2.4",
+    "open": "^7.0.0",
+    "proxy-lists": "^1.20.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
