@@ -24,6 +24,10 @@ git pull
 
 ```
 
+## Pictures
+
+![1](https://i.imgur.com/j2cY3jd.png)
+
 ## DISCLAIMER
 
 PLEASE USE THIS AT YOUR OWN RISK, THIS IS AGAINST DISCORD TOS.
